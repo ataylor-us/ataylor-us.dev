@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+![Alex Taylor](/assets/img/profile.jpg){: width="250" .rounded-10 .shadow .left }
+
+Hi! My name is Alex Taylor.
+
+I'm a Consultant, System Administrator, self-hoster, long-time Linux user, and self-proclaimed automation enthusiast.

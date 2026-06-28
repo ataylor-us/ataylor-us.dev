@@ -3,8 +3,21 @@
 - type: github
   icon: "fab fa-github"
 
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ataylor-us/"
+
+- type: bluesky
+  icon: "fa-brands fa-bluesky"
+  url: "https://bsky.app/profile/ataylor-us.bsky.social"
+
+- type: mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mastodon.social/@ataylor_us"
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: "https://x.com/ataylor_us"
 
 - type: email
   icon: "fas fa-envelope"
